@@ -1,5 +1,5 @@
 
-public class Main
+public class QueueTest
 {
     public static void main(String[] args) {
         SamiQueue queue = new SamiQueue();
