@@ -1,7 +1,7 @@
 /**
  * This class contains traversal algorithms used to read values of trees
  */
-public class Traversal
+public class BinaryTraversal
 {
     /**
      * This method pints values of a tree using in-order traversal

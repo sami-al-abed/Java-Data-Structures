@@ -7,4 +7,6 @@ The following data structures are shown in this repo:<br/>
 - Queue<br/>
 - Binary tree<br/>
   - Static Integer Binary Tree (not binary search tree)<br/>
-  - Traversal Algorithms
+  - NonBinaryTraversal Algorithms
+- Non-Binary tree<br/>
+  - Static Integer Non-Binary Tree <br/>
