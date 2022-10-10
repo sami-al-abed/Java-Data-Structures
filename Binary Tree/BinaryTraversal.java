@@ -4,7 +4,7 @@
 public class BinaryTraversal
 {
     /**
-     * This method pints values of a tree using in-order traversal
+     * This method prints values of a tree using in-order traversal
      * @param root is the root of the tree
      */
     public static void inOrderTraversal(Node<Integer> root) {
@@ -16,7 +16,7 @@ public class BinaryTraversal
     }
 
     /**
-     * This method pints values of a tree using pre-order traversal
+     * This method prints values of a tree using pre-order traversal
      * @param root is the root of the tree
      */
     public static void preOrderTraversal(Node<Integer> root) {
@@ -28,7 +28,7 @@ public class BinaryTraversal
     }
 
     /**
-     * This method pints values of a tree using post-order traversal
+     * This method prints values of a tree using post-order traversal
      * @param root is the root of the tree
      */
     public static void postOrderTraversal(Node<Integer> root) {

@@ -3,7 +3,10 @@
  */
 public class NonBinaryTraversal
 {
-
+    /**
+     * This method prints values of a non-binary tree
+     * @param root is the root of the tree
+     */
     public static void nonBinaryTreeTraversal(NoBinaryNode<Integer> root) {
         if (root != null) {
             System.out.println(root.value);
